@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/080aaebb-951d-44fe-a3fd-19d26e96b78c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/horamy"
+}
